@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "Output format",
+      "setup": "",
+      "run": "bash tests/run_tests.sh",
+      "timeout": 60,
+      "points": 100
+    }
+  ],
+  "version": 0
+}
